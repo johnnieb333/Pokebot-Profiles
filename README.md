@@ -1,7 +1,8 @@
 # Pokebot-Profiles
-Profiles for the libmgba pokebot
+Profiles for the libmgba pokebot https://github.com/40Cakes/pokebot-gen3
 
 Profiles for 
+
 Pokemon - Emerald Version (USA, Europe)
 
 Pokemon - Ruby Version (USA)
