@@ -3,9 +3,13 @@ Profiles for the libmgba pokebot
 
 Profiles for 
 Pokemon - Emerald Version (USA, Europe)
+
 Pokemon - Ruby Version (USA)
+
 Pokemon - Sapphire Version (USA)
+
 Pokemon - FireRed Version (USA)
+
 Pokemon - LeafGreen Version (USA)
 
 
