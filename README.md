@@ -22,5 +22,5 @@ Cheats.yml are in the folder, if you don't want to cheat just delete the file.
 
 The Gen 2 starters from when you beat the game RSE and you finished the NATDEX have cheats on by default and are in its own folder.
 
-NEW--  all 5 games now have a save file standing near the Safari Zone counter text set to fast and battle scene set to off as well . Drop the profiles in your profile folder run the bot load them and  go talk to the NPC for the Safari Zone [For Testing Purposes
+NEW--  all 5 games now have a save file standing near the Safari Zone counter, text set to fast and battle scene set to off as well . Drop the profiles in your profile folder run the bot load them and  go talk to the NPC for the Safari Zone (For Testing Purposes)
 
