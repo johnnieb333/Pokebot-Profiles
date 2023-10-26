@@ -1,0 +1,9 @@
+Use one of the 3 Save States to test 3 diffrent bot modes CTRL L to load the states
+
+They are set up like:
+ 
+Safari-Zone-Test.ss1 Saved as soon as you enter the Safari Zone
+ 
+Super-Rod-Test.ss1 Saved at water with the super rod registered so you can fish
+ 
+Spin-Catch-Block-Test.ss1 Saved on the first route with all 3 pokemon on the catch block list to test spin and the list  
