@@ -1,0 +1,6 @@
+version: 1
+rom:
+  file_name: Pokemon - FireRed Version (USA).gba
+  game_code: BPR
+  revision: 0
+  language: E
