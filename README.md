@@ -19,6 +19,8 @@ All profiles have  text set to fast and battle scene set to off.
 General.yml all set up for each one , just start your bot and pick the profile and they are saved exactly where they need to be to start the hunt.
 Cheats.yml are in the folder, if you don't want to cheat just delete the file.
 
+Starters By Game had all 3 starter profiles for each of the 5 games so all 3 fire red starters and so on for each game 
+
 
 The Gen 2 starters from when you beat the game RSE and you finished the NATDEX have cheats on by default and are in its own folder.
 
