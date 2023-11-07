@@ -27,6 +27,7 @@ Registeel | ✅ | ❌ | ❌
 Safari Zone | ✅ | ✅ | ✅
 Sudowoodo | ✅ | ❌ | ❌
 Wynaut | ✅ | ❌ | ❌
+Rock Smash | ✅ | ❌ | ❌
 </details>
 
 <details>
