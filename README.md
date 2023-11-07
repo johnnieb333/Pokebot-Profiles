@@ -7,7 +7,7 @@ Save states & profiles for testing / developing new modes for [40Cakes/pokebot-g
   
 Pokemon | Emerald | Ruby | Sapphire 
 --- | --- | --- | --- 
-Kyogre | ✅ | ❌ | ❌ 
+Kyogre | ✅ | ❌ | ✅ 
 Groudon | ✅ | ✅ | ❌ 
 Rayquaza | ✅ | ❌ | ❌ 
 Beldum | ❌ | ❌ | ❌
