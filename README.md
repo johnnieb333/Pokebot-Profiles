@@ -1,30 +1,54 @@
 # Pokebot-Profiles
-Profiles for the libmgba pokebot https://github.com/40Cakes/pokebot-gen3
-
-Profiles for 
-
-Pokemon - Emerald Version (USA, Europe)
-
-Pokemon - Ruby Version (USA)
-
-Pokemon - Sapphire Version (USA)
-
-Pokemon - FireRed Version (USA)
-
-Pokemon - LeafGreen Version (USA)
+Save states & profiles for testing / developing new modes for [40Cakes/pokebot-gen3](https://github.com/40Cakes/pokebot-gen3)
 
 
-All 9 starter profiles set up to be dropped into your profile folder for quick starter testing. 
-All profiles have  text set to fast and battle scene set to off.
-General.yml all set up for each one , just start your bot and pick the profile and they are saved exactly where they need to be to start the hunt.
-Cheats.yml are in the folder, if you don't want to cheat just delete the file.
+<details>
+<summary>RSE Saves Available</summary>
+  
+Pokemon | Emerald | Ruby | Sapphire 
+--- | --- | --- | --- 
+Kyogre | ✅ | ❌ | ❌ 
+Groudon | ✅ | ❌ | ❌ 
+Rayquaza | ✅ | ❌ | ❌ 
+Beldum | ❌ | ❌ | ❌
+Castform | ✅ | ✅ | ❌
+Deoxys | ✅ | ❌ | ❌
+Fossils | ✅ | ❌ | ❌
+Ho-Oh | ✅ | ❌ | ❌
+Hoenn Starters | ✅ | ✅ | ✅
+Johto Starters | ✅ | ❌ | ❌
+Kecleon | ❌ | ❌ | ❌
+Lati@s | ❌ | ❌ | ❌
+Lugia | ❌ | ❌ | ❌
+Mew | ✅ | ❌ | ❌
+Regice | ❌ | ❌ | ❌
+Regirock | ❌ | ❌ | ❌
+Registeel | ❌ | ❌ | ❌
+Safari Zone | ✅ | ✅ | ✅
+Sudowoodo | ❌ | ❌ | ❌
+Wynaut | ❌ | ❌ | ❌
+</details>
 
-Starters By Game had all 3 starter profiles for each of the 5 games so all 3 fire red starters and so on for each game 
-
-
-The Gen 2 starters from when you beat the game RSE and you finished the NATDEX have cheats on by default and are in its own folder.
-
-All 5 games now have a save file standing near the Safari Zone counter, text set to fast and battle scene set to off as well . Drop the profiles in your profile folder run the bot load them and  go talk to the NPC for the Safari Zone (For Testing Purposes)
-
-Made Saves States Test Profiles each game has 3 save states saved in the Safari Zone, spinning on the first route with all mons on the block list and standing near water with fishing rod set to start fishing 
-These were made for quick and easy testing when a new feature comes out to make sure all other features have retained their operational status 
+<details>
+<summary>FRLG Saves Available</summary>
+  
+## FRLG Saves Available
+Pokemon | Fire Red | Leaf Green
+--- | --- | --- 
+Kyogre | ❌ | ❌ 
+Groudon | ✅ | ❌ 
+Deoxys | ❌ | ❌ 
+Eevee | ✅ | ✅ 
+Fossils | ❌ | ❌ 
+Ho-Oh | ❌ | ❌ 
+Kanto Starters | ✅ | ✅ 
+Lapras | ❌ | ❌ 
+Legendary Birds | ✅ | ✅ 
+Legendary Dogs | ❌ | ❌ 
+Lugia | ❌ | ❌ 
+Magikarp | ❌ | ❌ 
+Mewtwo | ❌ | ❌ 
+Safari Zone | ✅ | ✅ 
+Snorlax | ❌ | ❌ 
+Togepi | ❌ | ❌ 
+</details>
