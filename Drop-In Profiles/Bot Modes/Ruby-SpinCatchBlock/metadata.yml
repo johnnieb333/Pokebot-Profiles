@@ -1,0 +1,6 @@
+version: 1
+rom:
+  file_name: Pokemon - Ruby Version (USA).gba
+  game_code: AXV
+  revision: 2
+  language: E
