@@ -11,7 +11,7 @@ Kyogre | ✅ | ❌ | ✅
 Groudon | ✅ | ✅ | ❌ 
 Rayquaza | ✅ | ❌ | ❌ 
 Beldum | ❌ | ❌ | ❌
-Castform | ✅ | ✅ | ❌
+Castform | ✅ | ✅ | ✅
 Deoxys | ✅ | ❌ | ❌
 Fossils | ✅ | ❌ | ❌
 Ho-Oh | ✅ | ❌ | ❌
