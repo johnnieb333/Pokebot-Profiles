@@ -18,7 +18,7 @@ Ho-Oh | ✅ | ❌ | ❌
 Hoenn Starters | ✅ | ✅ | ✅
 Johto Starters | ✅ | ❌ | ❌
 Kecleon | ✅ | ❌ | ❌
-Lati@s | ❌ | ❌ | ❌
+Lati@s | ✅ | ❌ | ❌
 Lugia | ✅ | ❌ | ❌
 Mew | ✅ | ❌ | ❌
 Regice | ✅ | ❌ | ❌
