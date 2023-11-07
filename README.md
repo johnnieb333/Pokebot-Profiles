@@ -17,16 +17,16 @@ Fossils | ✅ | ❌ | ❌
 Ho-Oh | ✅ | ❌ | ❌
 Hoenn Starters | ✅ | ✅ | ✅
 Johto Starters | ✅ | ❌ | ❌
-Kecleon | ❌ | ❌ | ❌
+Kecleon | ✅ | ❌ | ❌
 Lati@s | ❌ | ❌ | ❌
-Lugia | ❌ | ❌ | ❌
+Lugia | ✅ | ❌ | ❌
 Mew | ✅ | ❌ | ❌
 Regice | ❌ | ❌ | ❌
 Regirock | ❌ | ❌ | ❌
 Registeel | ❌ | ❌ | ❌
 Safari Zone | ✅ | ✅ | ✅
-Sudowoodo | ❌ | ❌ | ❌
-Wynaut | ❌ | ❌ | ❌
+Sudowoodo | ✅ | ❌ | ❌
+Wynaut | ✅ | ❌ | ❌
 </details>
 
 <details>
