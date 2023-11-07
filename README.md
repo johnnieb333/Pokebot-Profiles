@@ -10,7 +10,7 @@ Pokemon | Emerald | Ruby | Sapphire
 Kyogre | ✅ | ❌ | ✅ 
 Groudon | ✅ | ✅ | ❌ 
 Rayquaza | ✅ | ❌ | ❌ 
-Beldum | ❌ | ❌ | ❌
+Beldum | ✅ | ❌ | ❌
 Castform | ✅ | ✅ | ✅
 Deoxys | ✅ | ❌ | ❌
 Fossils | ✅ | ❌ | ❌
@@ -21,9 +21,9 @@ Kecleon | ✅ | ❌ | ❌
 Lati@s | ❌ | ❌ | ❌
 Lugia | ✅ | ❌ | ❌
 Mew | ✅ | ❌ | ❌
-Regice | ❌ | ❌ | ❌
-Regirock | ❌ | ❌ | ❌
-Registeel | ❌ | ❌ | ❌
+Regice | ✅ | ❌ | ❌
+Regirock | ✅ | ❌ | ❌
+Registeel | ✅ | ❌ | ❌
 Safari Zone | ✅ | ✅ | ✅
 Sudowoodo | ✅ | ❌ | ❌
 Wynaut | ✅ | ❌ | ❌
