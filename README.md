@@ -9,7 +9,7 @@ Pokemon | Emerald | Ruby | Sapphire
 --- | --- | --- | --- 
 Kyogre | ✅ | ❌ | ✅ 
 Groudon | ✅ | ✅ | ❌ 
-Rayquaza | ✅ | ❌ | ❌ 
+Rayquaza | ✅ | ✅ | ✅
 Beldum | ✅ | ❌ | ❌
 Castform | ✅ | ✅ | ✅
 Deoxys | ✅ | ❌ | ❌
