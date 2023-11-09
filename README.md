@@ -7,25 +7,25 @@ Save states & profiles for testing / developing new modes for [40Cakes/pokebot-g
   
 Pokemon | Emerald | Ruby | Sapphire 
 --- | --- | --- | --- 
-Kyogre | ✅ | ❌ | ✅ 
-Groudon | ✅ | ✅ | ❌ 
-Rayquaza | ✅ | ❌ | ❌ 
+Kyogre | ✅ | ➖ | ✅ 
+Groudon | ✅ | ✅ | ➖ 
+Rayquaza | ✅ | ✅ | ✅
 Beldum | ✅ | ❌ | ❌
 Castform | ✅ | ✅ | ✅
-Deoxys | ✅ | ❌ | ❌
+Deoxys | ✅ | ➖ | ➖
 Fossils | ✅ | ❌ | ❌
-Ho-Oh | ✅ | ❌ | ❌
+Ho-Oh | ✅ | ➖ | ➖
 Hoenn Starters | ✅ | ✅ | ✅
-Johto Starters | ✅ | ❌ | ❌
+Johto Starters | ✅ | ➖ | ➖
 Kecleon | ✅ | ❌ | ❌
 Lati@s | ✅ | ❌ | ❌
-Lugia | ✅ | ❌ | ❌
-Mew | ✅ | ❌ | ❌
+Lugia | ✅ | ➖ | ➖
+Mew | ✅ | ➖ | ➖
 Regice | ✅ | ❌ | ❌
 Regirock | ✅ | ❌ | ❌
 Registeel | ✅ | ❌ | ❌
 Safari Zone | ✅ | ✅ | ✅
-Sudowoodo | ✅ | ❌ | ❌
+Sudowoodo | ✅ | ➖ | ➖
 Wynaut | ✅ | ❌ | ❌
 Rock Smash | ✅ | ❌ | ❌
 </details>
