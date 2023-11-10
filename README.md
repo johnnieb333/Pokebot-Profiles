@@ -45,7 +45,7 @@ Ho-Oh | ❌ | ❌
 Kanto Starters | ✅ | ✅ 
 Lapras | ❌ | ❌ 
 Legendary Birds | ✅ | ✅ 
-Legendary Dogs | ✅ | ❌ 
+Legendary Dogs | ❌ | ❌ 
 Lugia | ❌ | ❌ 
 Magikarp | ❌ | ❌ 
 Mewtwo | ❌ | ❌ 
