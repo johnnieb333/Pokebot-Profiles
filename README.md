@@ -48,7 +48,7 @@ Kanto Starters | ✅ | ✅ | [🔗 Kanto Starters](Saves%20%26%20Save%20States/F
 Lapras | ❌ | ❌ | [🔗 Lapras](Saves%20%26%20Save%20States/FRLG/Lapras)
 Legendary Birds | ✅ | ✅ | [🔗 Legendary Birds](Saves%20%26%20Save%20States/FRLG/Legendary%20Birds)
 Legendary Dogs | ✅ | ❌ | [🔗 Legendary Dogs](Saves%20%26%20Save%20States/FRLG/Legendary%20Dogs)
-Lugia | ❌ | ❌ | [🔗 Lugia](Saves%20%26%20Save%20States/FRLG/Lugia)
+Lugia | ✅ | ❌ | [🔗 Lugia](Saves%20%26%20Save%20States/FRLG/Lugia)
 Magikarp | ✅ | ❌ | [🔗 Magikarp](Saves%20%26%20Save%20States/FRLG/Magikarp)
 Mewtwo | ✅ | ❌ | [🔗 Mewtwo](Saves%20%26%20Save%20States/FRLG/Mewtwo)
 Safari Zone | ✅ | ✅ | [🔗 Safari Zone](Saves%20%26%20Save%20States/FRLG/Safari%20Zone)
