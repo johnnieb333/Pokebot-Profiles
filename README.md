@@ -41,7 +41,7 @@ Kyogre | ❌ | ❌ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/FRLG
 Groudon | ✅ | ❌ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/FRLG/Ancient%20Legendaries)
 Deoxys | ❌ | ❌ | [🔗 Deoxys](Saves%20%26%20Save%20States/FRLG/Deoxys)
 Eevee | ✅ | ✅ | [🔗 Eevee](Saves%20%26%20Save%20States/FRLG/Eevee)
-Fossils | ❌ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/FRLG/Fossils)
+Fossils | ✅ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/FRLG/Fossils)
 Hitmon Duo | ❌ | ❌ | [🔗 Hitmon Duo](Saves%20%26%20Save%20States/FRLG/Hitmon)
 Ho-Oh | ❌ | ❌ | [🔗 Ho-Oh](Saves%20%26%20Save%20States/FRLG/Ho-Oh)
 Kanto Starters | ✅ | ✅ | [🔗 Kanto Starters](Saves%20%26%20Save%20States/FRLG/Kanto%20Starters)
