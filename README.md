@@ -56,4 +56,5 @@ Snorlax | ✅ | ❌ | [🔗 Snorlax](Saves%20%26%20Save%20States/FRLG/Snorlax)
 Togepi | ✅ | ❌ | [🔗 Togepi](Saves%20%26%20Save%20States/FRLG/Togepi)
 Nugget Bridge | ✅ | ❌ | [🔗 Nugget Bridge](Saves%20%26%20Save%20States/FRLG/Nugget%20Bridge)
 Porygon | ✅ | ❌ | [🔗 Porygon](Saves%20%26%20Save%20States/FRLG/Porygon)
+Breeding | ❌ | ❌ | [🔗 Breeding](Saves%20%26%20Save%20States/FRLG/Breeding)
 </details>
