@@ -36,10 +36,10 @@ Wynaut (Egg) | ✅ | ❌ | ❌ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/W
 ## FRLG Saves Available
 Pokemon | Fire Red | Leaf Green | Folder Link
 --- | --- | --- | ---
-Aerodactyl | ✅ | ❌ | [🔗 Aerodactyl](Saves%20%26%20Save%20States/FRLG/Aerodactyl)
+Aerodactyl | ✅ | ✅ | [🔗 Aerodactyl](Saves%20%26%20Save%20States/FRLG/Aerodactyl)
 Deoxys | ✅ | ✅ | [🔗 Deoxys](Saves%20%26%20Save%20States/FRLG/Deoxys)
 Eevee | ✅ | ✅ | [🔗 Eevee](Saves%20%26%20Save%20States/FRLG/Eevee)
-Fossils | ✅ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/FRLG/Fossils)
+Fossils | ✅ | ✅ | [🔗 Fossils](Saves%20%26%20Save%20States/FRLG/Fossils)
 Hitmon Duo | ✅ | ✅ | [🔗 Hitmon Duo](Saves%20%26%20Save%20States/FRLG/Hitmon)
 Ho-Oh | ✅ | ✅ | [🔗 Ho-Oh](Saves%20%26%20Save%20States/FRLG/Ho-Oh)
 Kanto Starters | ✅ | ✅ | [🔗 Kanto Starters](Saves%20%26%20Save%20States/FRLG/Kanto%20Starters)
