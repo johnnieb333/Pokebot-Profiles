@@ -37,8 +37,6 @@ Wynaut (Egg) | ✅ | ❌ | ❌ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/W
 Pokemon | Fire Red | Leaf Green | Folder Link
 --- | --- | --- | ---
 Aerodactyl | ✅ | ❌ | [🔗 Aerodactyl](Saves%20%26%20Save%20States/FRLG/Aerodactyl)
-Kyogre | ❌ | ❌ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/FRLG/Ancient%20Legendaries)
-Groudon | ✅ | ❌ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/FRLG/Ancient%20Legendaries)
 Deoxys | ✅ | ✅ | [🔗 Deoxys](Saves%20%26%20Save%20States/FRLG/Deoxys)
 Eevee | ✅ | ✅ | [🔗 Eevee](Saves%20%26%20Save%20States/FRLG/Eevee)
 Fossils | ✅ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/FRLG/Fossils)
