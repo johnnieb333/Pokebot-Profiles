@@ -42,7 +42,7 @@ Groudon | ✅ | ❌ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/FRL
 Deoxys | ✅ | ✅ | [🔗 Deoxys](Saves%20%26%20Save%20States/FRLG/Deoxys)
 Eevee | ✅ | ✅ | [🔗 Eevee](Saves%20%26%20Save%20States/FRLG/Eevee)
 Fossils | ✅ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/FRLG/Fossils)
-Hitmon Duo | ✅ | ❌ | [🔗 Hitmon Duo](Saves%20%26%20Save%20States/FRLG/Hitmon)
+Hitmon Duo | ✅ | ✅ | [🔗 Hitmon Duo](Saves%20%26%20Save%20States/FRLG/Hitmon)
 Ho-Oh | ✅ | ✅ | [🔗 Ho-Oh](Saves%20%26%20Save%20States/FRLG/Ho-Oh)
 Kanto Starters | ✅ | ✅ | [🔗 Kanto Starters](Saves%20%26%20Save%20States/FRLG/Kanto%20Starters)
 Lapras | ✅ | ❌ | [🔗 Lapras](Saves%20%26%20Save%20States/FRLG/Lapras)
