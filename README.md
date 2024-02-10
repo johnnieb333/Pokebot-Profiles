@@ -27,7 +27,7 @@ Registeel | ✅ | ✅ | ❌ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/R
 Rock Smash | ✅ | ❌ | ❌ | [🔗 Rock Smash](Saves%20%26%20Save%20States/RSE/Rock%20Smash)
 Safari Zone | ✅ | ✅ | ✅ | [🔗 Safari Zones](Saves%20%26%20Save%20States/RSE/Safari%20Zones)
 Sudowoodo | ✅ | ➖ | ➖ | [🔗 Sudowoodo](Saves%20%26%20Save%20States/RSE/Sudowoodo)
-Wynaut (Egg) | ✅ | ❌ | ❌ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/Wynaut)
+Wynaut (Egg) | ✅ | ❌ | ✅ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/Wynaut)
 </details>
 
 <details>
