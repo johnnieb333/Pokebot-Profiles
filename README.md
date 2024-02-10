@@ -10,7 +10,7 @@ Pokemon | Emerald | Ruby | Sapphire | Folder Link
 Kyogre | ✅ | ➖ | ✅ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/RSE/Ancient%20Legendaries)
 Groudon | ✅ | ✅ | ➖ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/RSE/Ancient%20Legendaries)
 Rayquaza | ✅ | ✅ | ✅ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20States/RSE/Ancient%20Legendaries)
-Beldum | ✅ | ❌ | ❌ | [🔗 Beldum](Saves%20%26%20Save%20States/RSE/Beldum)
+Beldum | ✅ | ✅ | ❌ | [🔗 Beldum](Saves%20%26%20Save%20States/RSE/Beldum)
 Castform | ✅ | ✅ | ✅ | [🔗 Castform](Saves%20%26%20Save%20States/RSE/Castform)
 Deoxys | ✅ | ➖ | ➖ | [🔗 Deoxys](Saves%20%26%20Save%20States/RSE/Deoxys)
 Fossils | ✅ | ✅ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/RSE/Fossils)
