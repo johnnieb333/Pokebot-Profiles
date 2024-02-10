@@ -13,7 +13,7 @@ Rayquaza | ✅ | ✅ | ✅ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20Sta
 Beldum | ✅ | ❌ | ❌ | [🔗 Beldum](Saves%20%26%20Save%20States/RSE/Beldum)
 Castform | ✅ | ✅ | ✅ | [🔗 Castform](Saves%20%26%20Save%20States/RSE/Castform)
 Deoxys | ✅ | ➖ | ➖ | [🔗 Deoxys](Saves%20%26%20Save%20States/RSE/Deoxys)
-Fossils | ✅ | ❌ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/RSE/Fossils)
+Fossils | ✅ | ❌ | ✅ | [🔗 Fossils](Saves%20%26%20Save%20States/RSE/Fossils)
 Ho-Oh | ✅ | ➖ | ➖ | [🔗 Ho-Oh](Saves%20%26%20Save%20States/RSE/Ho-Oh)
 Hoenn Starters | ✅ | ✅ | ✅ | [🔗 Hoenn Starters](Saves%20%26%20Save%20States/RSE/Hoenn%20Starters)
 Johto Starters | ✅ | ➖ | ➖ | [🔗 Johto Starters](Saves%20%26%20Save%20States/RSE/Johto%20Starters)
