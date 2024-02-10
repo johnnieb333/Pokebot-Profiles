@@ -13,11 +13,11 @@ Rayquaza | ✅ | ✅ | ✅ | [🔗 Ancient Legendaries](Saves%20%26%20Save%20Sta
 Beldum | ✅ | ❌ | ❌ | [🔗 Beldum](Saves%20%26%20Save%20States/RSE/Beldum)
 Castform | ✅ | ✅ | ✅ | [🔗 Castform](Saves%20%26%20Save%20States/RSE/Castform)
 Deoxys | ✅ | ➖ | ➖ | [🔗 Deoxys](Saves%20%26%20Save%20States/RSE/Deoxys)
-Fossils | ✅ | ❌ | ✅ | [🔗 Fossils](Saves%20%26%20Save%20States/RSE/Fossils)
+Fossils | ✅ | ✅ | ❌ | [🔗 Fossils](Saves%20%26%20Save%20States/RSE/Fossils)
 Ho-Oh | ✅ | ➖ | ➖ | [🔗 Ho-Oh](Saves%20%26%20Save%20States/RSE/Ho-Oh)
 Hoenn Starters | ✅ | ✅ | ✅ | [🔗 Hoenn Starters](Saves%20%26%20Save%20States/RSE/Hoenn%20Starters)
 Johto Starters | ✅ | ➖ | ➖ | [🔗 Johto Starters](Saves%20%26%20Save%20States/RSE/Johto%20Starters)
-Kecleon | ✅ | ❌ | ✅ | [🔗 Kecleon](Saves%20%26%20Save%20States/RSE/Kecleon)
+Kecleon | ✅ | ✅ | ❌ | [🔗 Kecleon](Saves%20%26%20Save%20States/RSE/Kecleon)
 Lati@s | ✅ | ❌ | ❌ | [🔗 Lati@s](Saves%20%26%20Save%20States/RSE/Lati%40s)
 Lugia | ✅ | ➖ | ➖ | [🔗 Lugia](Saves%20%26%20Save%20States/RSE/Lugia)
 Mew | ✅ | ➖ | ➖ | [🔗 Mew](Saves%20%26%20Save%20States/RSE/Mew)
@@ -27,7 +27,7 @@ Registeel | ✅ | ✅ | ❌ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/R
 Rock Smash | ✅ | ❌ | ❌ | [🔗 Rock Smash](Saves%20%26%20Save%20States/RSE/Rock%20Smash)
 Safari Zone | ✅ | ✅ | ✅ | [🔗 Safari Zones](Saves%20%26%20Save%20States/RSE/Safari%20Zones)
 Sudowoodo | ✅ | ➖ | ➖ | [🔗 Sudowoodo](Saves%20%26%20Save%20States/RSE/Sudowoodo)
-Wynaut (Egg) | ✅ | ❌ | ✅ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/Wynaut)
+Wynaut (Egg) | ✅ | ✅ | ❌ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/Wynaut)
 </details>
 
 <details>
