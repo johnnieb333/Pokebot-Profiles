@@ -17,17 +17,17 @@ Fossils | ✅ | ✅ | ✅ | [🔗 Fossils](Saves%20%26%20Save%20States/RSE/Fossi
 Ho-Oh | ✅ | ➖ | ➖ | [🔗 Ho-Oh](Saves%20%26%20Save%20States/RSE/Ho-Oh)
 Hoenn Starters | ✅ | ✅ | ✅ | [🔗 Hoenn Starters](Saves%20%26%20Save%20States/RSE/Hoenn%20Starters)
 Johto Starters | ✅ | ➖ | ➖ | [🔗 Johto Starters](Saves%20%26%20Save%20States/RSE/Johto%20Starters)
-Kecleon | ✅ | ✅ | ❌ | [🔗 Kecleon](Saves%20%26%20Save%20States/RSE/Kecleon)
+Kecleon | ✅ | ✅ | ✅ | [🔗 Kecleon](Saves%20%26%20Save%20States/RSE/Kecleon)
 Lati@s | ✅ | ❌ | ❌ | [🔗 Lati@s](Saves%20%26%20Save%20States/RSE/Lati%40s)
 Lugia | ✅ | ➖ | ➖ | [🔗 Lugia](Saves%20%26%20Save%20States/RSE/Lugia)
 Mew | ✅ | ➖ | ➖ | [🔗 Mew](Saves%20%26%20Save%20States/RSE/Mew)
-Regice | ✅ | ✅ | ❌ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/Regi%20Trio)
-Regirock | ✅ | ✅ | ❌ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/Regi%20Trio)
-Registeel | ✅ | ✅ | ❌ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/Regi%20Trio)
-Rock Smash | ✅ | ✅ | ❌ | [🔗 Rock Smash](Saves%20%26%20Save%20States/RSE/Rock%20Smash)
+Regice | ✅ | ✅ | ✅ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/Regi%20Trio)
+Regirock | ✅ | ✅ | ✅ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/Regi%20Trio)
+Registeel | ✅ | ✅ | ✅ | [🔗 Regi Trio](Saves%20%26%20Save%20States/RSE/Regi%20Trio)
+Rock Smash | ✅ | ✅ | ✅ | [🔗 Rock Smash](Saves%20%26%20Save%20States/RSE/Rock%20Smash)
 Safari Zone | ✅ | ✅ | ✅ | [🔗 Safari Zones](Saves%20%26%20Save%20States/RSE/Safari%20Zones)
 Sudowoodo | ✅ | ➖ | ➖ | [🔗 Sudowoodo](Saves%20%26%20Save%20States/RSE/Sudowoodo)
-Wynaut (Egg) | ✅ | ✅ | ❌ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/Wynaut)
+Wynaut (Egg) | ✅ | ✅ | ✅ | [🔗 Wynaut](Saves%20%26%20Save%20States/RSE/Wynaut)
 </details>
 
 <details>
