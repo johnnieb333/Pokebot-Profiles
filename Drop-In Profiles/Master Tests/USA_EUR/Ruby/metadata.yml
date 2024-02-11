@@ -1,6 +1,6 @@
 version: 1
 rom:
-  file_name: Ruby Version (USA, Europe) (Rev 2).gba
-  game_code: AXV
-  revision: 2
+  file_name: Pokemon - Ruby Version (USA, Europe).gba
+  game_code: BPG
+  revision: 1
   language: E
