@@ -1,0 +1,6 @@
+version: 1
+rom:
+  file_name: Pokemon - Smaragd-Edition (Germany).gba
+  game_code: BPE
+  revision: 0
+  language: D
