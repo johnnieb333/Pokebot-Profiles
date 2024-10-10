@@ -1,0 +1,6 @@
+version: 1
+rom:
+  file_name: Pokemon - Version Rouge Feu (France).gba
+  game_code: BPR
+  revision: 0
+  language: F
